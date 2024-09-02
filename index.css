@@ -39,7 +39,7 @@ p {
 }
 main {
     width: 80%;
-    height: 80vh;
+    height: 60vh;
     margin: 5rem auto;
     background: var(--white);
     display: flex;
@@ -47,7 +47,7 @@ main {
 }
 .content_image {
     padding: 0;
-    width: 40%;
+    width: 45%;
     border-radius: inherit;
 }
 .content_image img{
@@ -57,10 +57,10 @@ main {
 }
 .content_text {
     padding: 4rem;
-    width: 60%;
+    width: 55%;
 }
 .description {
-    margin: 3rem 0;
+    margin: 1rem 0;
     line-height: 38px;
 }
 .bio {
