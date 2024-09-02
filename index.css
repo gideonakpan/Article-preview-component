@@ -103,7 +103,7 @@ main {
     background: var(--very-dark-grayish-blue);
     display: flex;
     justify-content: space-between;
-    padding: 1.5rem 3rem;
+    padding: 1rem 2rem;
     position: absolute;
     margin-top: -150px;
     left: 72%;
