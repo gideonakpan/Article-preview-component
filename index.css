@@ -39,6 +39,7 @@ p {
 }
 main {
     width: 80%;
+    height: 80vh;
     margin: 5rem auto;
     background: var(--white);
     display: flex;
@@ -154,9 +155,10 @@ main {
     }
     main {
         flex-direction: column;
+        height: 87vh;
     }
     h1 {
-        font-size: 25px;
+        font-size: 20px;
         color: var(--very-dark-grayish-blue);
         font-weight: 700;
     }
@@ -165,7 +167,7 @@ main {
         color: var(--very-dark-grayish-blue); 
     }
     p {
-        font-size: 20px;
+        font-size: 15px;
         color: var(--light-gray);
         font-weight: 600;
         color: var(--grayish-blue); 
@@ -185,14 +187,14 @@ main {
         width: 100%;
     }
     .description {
-        margin: 3rem 0;
+        margin: 2rem 0;
         line-height: 28px;
     }
     .bio h2{
-        font-size: 15px;
+        font-size: 10px;
     }
     .bio p{
-        font-size: 15px;
+        font-size: 10px;
     }
     #popup_box {
         /* /* background: var(--very-dark-grayish-blue);
